@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview  --port 8080"
+    "preview": "vite preview  --port 8080"
   },
   "dependencies": {
     "nanoid": "^3.2.0",
